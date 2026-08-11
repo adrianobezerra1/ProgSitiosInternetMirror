@@ -1,2 +1,2 @@
-# mirrorfashion
-Projeto e-commerce disciplina
+# Projeto Mirrorfashion
+Projeto de e-commerce da disciplina Programação de Sítios Internet 
